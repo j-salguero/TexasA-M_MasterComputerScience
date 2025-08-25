@@ -3,3 +3,5 @@
 * CSCE 629 - Analysis of Algorithms (Spring 2025)
 * CSCE 713 - Software Security (Spring 2025)
 * CSCE 735 - Parallel Computing (Summer 2025)
+* CSCE 606 - Software Engineering (Fall 2025)
+* CSCE 636 - Deep Learning (Fall 2025)
